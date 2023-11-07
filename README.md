@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.0.11-%23DA70D6.svg" alt="Versão Atual" />
-  <img src="https://img.shields.io/badge/PRs-aceitos-%23DA70D6.svg" alt="Aceitamos PRs!" />
-  <img alt="Licença" src="https://img.shields.io/badge/licença-MIT-%23DA70D6">
+  <img src="https://img.shields.io/badge/Versão do Tema-1.0.2-%23DA70D6.svg" alt="Versão Atual" />
+  <img src="https://img.shields.io/badge/PRs/Parcerias-Aceitamos-%23DA70D6.svg" alt="Aceitamos PRs!" />
+  <img alt="Licença" src="https://img.shields.io/badge/Licença-MIT-%23DA70D6">
 </p>
 
 <p align="center">
