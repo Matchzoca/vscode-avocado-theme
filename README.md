@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Versão do Tema-1.0.2-%23DA70D6.svg" alt="Versão Atual" />
+  <img src="https://img.shields.io/badge/🥑 Versão do Tema-1.0.2-%23DA70D6.svg" alt="Versão Atual" />
   <img src="https://img.shields.io/badge/PRs/Parcerias-Aceitamos-%23DA70D6.svg" alt="Aceitamos PRs!" />
   <img alt="Licença" src="https://img.shields.io/badge/Licença-MIT-%23DA70D6">
 </p>
@@ -42,7 +42,7 @@ O Tema Avocado é um tema escuro e elegante com um toque de verde, inspirado na 
 ## Passos Adicionais
 
 6. Aproveite a tranquilidade das cores animadoras do Avocado. 🥑
-7. Avalie com 5 ⭐ no Mercado do VSCode.
+7. Serio. plss, Avalie com 5 Estrelas ⭐ no Mercado do VSCode se puder.
 
 ## Licença
 
