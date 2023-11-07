@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "icon": "./public-imgs/Avocado-Theme-Pixelon-K33.png",
   "categories": [
     "Themes"
   ],
