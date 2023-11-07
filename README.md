@@ -46,4 +46,4 @@ O Tema Avocado é um tema escuro e elegante com um toque de verde, inspirado na 
 
 ## Licença
 
-Licença MIT | Todos os direitos reservados.
+[License MIT](./LICENSE.md) | Todos os direitos reservados.
