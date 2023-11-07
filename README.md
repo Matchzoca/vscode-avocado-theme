@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Captura de tela do Tema Carambola para Visual Studio Code" src="./ScreenAvocadoTheme-PixelonK33.png">
+  <img alt="Captura de tela do Tema Carambola para Visual Studio Code" src="./public-imgs/ScreenAvocadoTheme-PixelonK33.png">
 </p>
 
 
