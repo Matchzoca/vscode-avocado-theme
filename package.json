@@ -1,0 +1,33 @@
+{
+  "name": "pixelon",
+  "displayName": "Avocado Theme",
+  "description": "🥑 Avocado Theme - Um dos melhores temas vibes, moderno e minimalista feito para o Vs Code!",
+  "version": "1.0.2",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matchzoca/vscode-avocado-theme"
+  },
+  "keywords": [
+    "avocado",
+    "theme",
+    "dark-theme",
+    "avocado-theme"
+
+  ],
+  "publisher": "Pixelon",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Avocado-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/avocado-theme-color-theme.json"
+      }
+    ]
+  }
+}
